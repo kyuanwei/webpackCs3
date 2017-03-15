@@ -1,0 +1,33 @@
+{
+  "name": "webpackcs3",
+  "version": "1.0.0",
+  "description": "webpack excise3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excise3"
+  ],
+  "author": "key",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^2.0.0-beta.4",
+    "file-loader": "^0.10.0",
+    "html-loader": "^0.4.4",
+    "html-webpack-plugin": "^2.28.0",
+    "jquery": "^3.1.1",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.2",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "uglify-js": "^2.7.5",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

@@ -1,0 +1,1 @@
+document.write('这是a.js文件')
